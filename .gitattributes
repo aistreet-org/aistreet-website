@@ -1,0 +1,16 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Explicitly set line endings for common file types
+*.py text eol=lf
+*.sh text eol=lf
+*.bat text eol=crlf
+*.txt text eol=lf
+*.md text eol=lf
+
+# Binary files (no changes)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary

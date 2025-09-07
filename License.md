@@ -1,0 +1,1 @@
+All rights reserved. You may not use, copy, modify, or distribute this software without prior written permission from AIStreet
